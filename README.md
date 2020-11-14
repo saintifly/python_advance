@@ -10,3 +10,8 @@
 《python 核心编程第三版》
 《flask web开发实战》
 
+##待提升：
+python 高级语法
+python 算法
+python 常用的框架
+
